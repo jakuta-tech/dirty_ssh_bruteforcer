@@ -1,3 +1,5 @@
+#originally written 3 DEC 2018
+
 import sys, paramiko
 
 import optparse
